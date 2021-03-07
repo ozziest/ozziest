@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am a Software Developer who lives in Sakarya (Turkey) and works remotely as a Lead Software Developer at <a href="https://www.bauexperts.de/" target="_blank">Bauexperts</a>. I like writing and talking about *Coding*, *Testing*, *Clean Code*, *Refactoring* and *DevOps*. 
+Hi, I am Özgür /œzgʊr/!
 
-As a big fan of discovering, I have a very long list full of with dreams. I am interested with music, visual arts and literature. I am a person who likes to collect beautiful stuffs.
+I am a software developer who has been coding for almost ten years. Usually, I am working on web applications on both sides; frontend and backend. I had many chances to work with different languages and technologies from zero to production.
 
-Please feel free to contact with me if you have any question. I'll try to answer to you as soon as possible. My Twitter id is <a href="http://twitter.com/iozguradem" target="_blank">@iozguradem</a>.
+I am the co-founder of some of the local communities on technology and music. I like sharing my experiences with people. That's why I like writing and talking about everything.
+
+Also, I am interested in creating a startup which makes me proud of it. Although I fail usually, I am stubborn enough to keep going try.
