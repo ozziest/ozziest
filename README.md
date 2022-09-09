@@ -2,8 +2,8 @@
 
 Hi, I am Özgür /œzgʊr/!
 
-I am a software developer who has been coding for almost ten years. Usually, I am working on web applications on both sides; frontend and backend. I had many chances to work with different languages and technologies from zero to production.
+Self-learner, inquisitive, and team player attributes can be useful words to describe me. I am the perfect start-up developer who knows the importance of time management, delivers software quickly, and cares about to assimilates business logic. I always like to be a developer who owned the product in all detail.
 
-I am the co-founder of some of the local communities on technology and music. I like sharing my experiences with people. That's why I like writing and talking about everything.
+In the past, I have many experiences to develop B2B and B2C web applications. I am working with a passion to design desirable UI and usable UX for more than 10 years. I experienced many different programming languages and technologies until the time that understand the most important thing in software development is not programming languages or technologies. I believe that all technologies and languages used are just tools to make good products, that users love to use.
 
-Also, I am interested in creating a startup which makes me proud of it. Although I fail usually, I am stubborn enough to keep going try.
+I would be happy to help you in many different areas such as software development, startup culture, delivering products, community management, leading teams, building scalable web applications, designing APIs, creating reusable libraries, etc.
