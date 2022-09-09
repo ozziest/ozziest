@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Özgür /œzgʊr/!
+I am Özgür /œzgʊr/!
 
 *Self-learner*, *inquisitive*, and *team player* attributes can be useful words to describe me. I am the perfect **start-up developer** who knows the importance of time management, delivers software quickly, and cares about to assimilates business logic. I always like to be a developer who owned the product in all detail.
 
