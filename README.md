@@ -29,4 +29,3 @@
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozziest&show_icons=true&locale=en" alt="ozziest" /></div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozziest&" alt="ozziest" /></div>
